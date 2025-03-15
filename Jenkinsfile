@@ -6,7 +6,7 @@ pipeline {
             steps {
                 script {
                     echo 'Building C++ Project...'
-                    sh 'g++ -o PES2UG22CS061-1 nonexistent_file.cpp' // Replace with your actual file
+                    sh 'g++ -o PES2UG23CS818 nonexistent_file.cpp' // Replace with your actual file
                 }
             }
         }
